@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Recep</h1>
-<h3 align="center">A passionate frontend developer candidate from Türkiye</h3>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently working with **React.js**
 
 - 📫 How to reach me **raydogan20@posta.pau.edu.tr**
 
